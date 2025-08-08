@@ -1,4 +1,4 @@
-# Windows 11 Home Customizado
+# Windows 11 Home Customizado + Recomendações
 
 ISO leve e focada em privacidade do Windows 11 Home, sem bloatware e telemetria, otimizada para melhor segurança e desempenho.<br>
 🔗[Baixar ISO Windows 11 Home 24H2 (NTLite)](https://drive.usercontent.google.com/download?id=1B7Tz8lOW5djMuqD7Y7Dm9o0QuYOpp_0N)
