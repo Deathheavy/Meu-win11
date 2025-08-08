@@ -48,7 +48,6 @@ CMD > Abrir como administrador
 DISM /Online /Cleanup-Image /RestoreHealth - Repara a imagem do Windows usada para restaurar arquivos.<br>
 sfc /scannow - Verifica e repara arquivos de sistema corrompidos.<br>
 chkdsk /f - Verifica e corrige erros no sistema de arquivos do disco.<br>
-devmgmt.msc - Abre o Gerenciador de Dispositivos, onde você vê hardware, drivers e atualizações de componentes.<br>
 tasklist - Lista processos em execução.<br>
 taskkill /IM nome.exe /F - Encerra um processo específico.<br>
 ipconfig /displaydns - Mostra o cache DNS armazenado localmente (endereços visitados recentemente).<br>
@@ -69,6 +68,11 @@ prefetch - Abre a pasta onde o Windows armazena arquivos de pré-carregamento de
 msconfig - Abre a Configuração do Sistema, onde é possível gerenciar inicialização, serviços e modo de boot.<br>
 msinfo32 - Abre a Ferramenta de Informações do Sistema com detalhes de hardware, drivers e software.<br>
 dxdiag - Abre o Diagnóstico do DirectX, mostrando informações detalhadas de vídeo, som e drivers.<br>
+regedit - Abre o Editor do Registro do Windows.<br>
+mrt - Abre o utilitário oficial da Microsoft para detectar e remover malwares.<br>
+shell:startup - Abre a pasta de inicialização automática de programas.<br>
+services.msc - Abre a lista de serviços do Windows.<br>
+devmgmt.msc - Abre o Gerenciador de Dispositivos, onde você vê hardware, drivers e atualizações de componentes.<br>
 
 ---
 
