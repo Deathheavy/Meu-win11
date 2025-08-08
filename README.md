@@ -101,10 +101,6 @@ Obs. Para assistir em seu smarthphone basta fazer o download do Stremio e acessa
 
 ---
 
-## Sobre este Projeto
-
-Este projeto tem como objetivo fornecer uma versão mais leve, segura e rápida do Windows 11 Home, removendo serviços de telemetria e programas pré-instalados (bloatware).
-
 ## Ferramentas Utilizadas
 
 Programa utilizado para editar a ISO, removendo componentes indesejados e ajustando configurações.<br>
