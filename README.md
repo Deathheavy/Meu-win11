@@ -7,7 +7,7 @@ ISO leve e focada em privacidade do Windows 11 Home, sem bloatware e telemetria,
 
 ## Rufus
 
-Rufus é uma ferramenta que ajuda a formatar e criar drives USB inicializáveis, como chaves/drives USB, cartões de memória e etc<br>
+Rufus é uma ferramenta que ajuda a formatar e criar drives USB inicializáveis, como chaves/drives USB, cartões de memória e também remover os requisitos de instalação que a Microsoft decidiu adicionar ao Windows 11<br>
 🔗[RUFUS](https://rufus.ie/pt_BR/)
 
 ---
