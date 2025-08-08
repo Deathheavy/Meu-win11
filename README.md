@@ -22,7 +22,7 @@ Rufus é uma ferramenta que ajuda a formatar e criar drives USB inicializáveis,
 
 1. [WPD](https://wpd.app) - Bloquear a telemetria e os aplicativos do windows 11
 2. [OOSU10](https://www.oo-software.com/en/shutup10) - Ferramenta para controlar e desativar funções de telemetria e coleta de dados no Windows.
-3. [Revo Uninstaller](https://www.revouninstaller.com/br/revo-uninstaller-free-download/) - Aplicativo para limpar o sistema e remover restos de aplicativos e também aplicativos do sistema
+3. [Revo Uninstaller](https://www.revouninstaller.com/br/revo-uninstaller-free-download/) - Aplicativo para limpar o sistema e também remover aplicativos do sistema
 4. [Proton VPN](https://protonvpn.com) - A VPN aprimora a privacidade e a segurança online criptografando a conexão e mascarando sua IP
 5. [Brave](https://brave.com) - Navegador baseado no Chrome com foco em privacidade e com Ublock Origin integrado
 6. [VLC](https://www.videolan.org/vlc) - Reprodutor multimídia versátil que suporta praticamente todos os formatos de vídeo e áudio.
