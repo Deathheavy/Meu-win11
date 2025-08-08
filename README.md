@@ -34,4 +34,4 @@ Programa utilizado para editar a ISO, removendo componentes indesejados e ajusta
 ## Fonte
 
 Tutorial em inglês de como editar uma ISO<br>
-[Create A Custom Windows 10 or 11 ISO](https://www.youtube.com/watch?v=_gMJNQ3yWNE)
+▶️[Create A Custom Windows 10 or 11 ISO](https://www.youtube.com/watch?v=_gMJNQ3yWNE)
