@@ -7,7 +7,7 @@ ISO leve e focada em privacidade do Windows 11 Home, sem bloatware e telemetria,
 
 ## Rufus
 
-Rufus é uma ferramenta que ajuda a formatar e criar drives USB inicializáveis, como chaves/drives USB, cartões de memória e etc
+Rufus é uma ferramenta que ajuda a formatar e criar drives USB inicializáveis, como chaves/drives USB, cartões de memória e etc<br>
 🔗[RUFUS](https://rufus.ie/pt_BR/)
 
 ---
@@ -27,11 +27,11 @@ Este projeto tem como objetivo fornecer uma versão mais leve, segura e rápida 
 
 ## Ferramentas Utilizadas
 
-Programa utilizado para editar a ISO, removendo componentes indesejados e ajustando configurações.
+Programa utilizado para editar a ISO, removendo componentes indesejados e ajustando configurações.<br>
 🔗[NTLite](https://www.ntlite.com/download)
 
 
 ## Fonte
 
-Tutorial em inglês de como editar uma ISO
+Tutorial em inglês de como editar uma ISO<br>
 [Create A Custom Windows 10 or 11 ISO](https://www.youtube.com/watch?v=_gMJNQ3yWNE)
