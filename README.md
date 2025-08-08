@@ -108,7 +108,7 @@ Este projeto tem como objetivo fornecer uma versão mais leve, segura e rápida 
 ## Ferramentas Utilizadas
 
 Programa utilizado para editar a ISO, removendo componentes indesejados e ajustando configurações.<br>
-[NTLite](https://www.ntlite.com/download)
+[NTLite](https://www.ntlite.com/download)<br>
 [ISO](https://www.microsoft.com/pt-br/software-download/windows11)
 
 
