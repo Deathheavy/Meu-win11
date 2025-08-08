@@ -32,15 +32,6 @@ Rufus é uma ferramenta que ajuda a formatar e criar drives USB inicializáveis,
 10. [Notepad++](https://notepad-plus-plus.org/downloads/) - Editor de texto avançado para programadores e uso geral, com suporte a várias linguagens.
 
 
-## Lista de sites confiáveis para torrent(Recomendado usar Adblock):
-
-1. https://1337x.to - Torrents no geral, faça o download somente de uploaders confiáveis
-2. https://fitgirl-repacks.site - A melhor repacker de jogos da web e a melhor fonte de jogos confiáveis
-3. https://byxatab.com - Fonte de jogos confiáveis
-4. https://elamigos.site - Fonte de jogos e updates para jogos crackeados
-5. https://online-fix.me - Concede soluções para jogar COOP em jogos crackeados
-
-
 ## Alterar o seu DNS para o da Cloudflare:
 [DNS](https://one.one.one.one/help/) - Site da Cloudflare com guia para o setup da dns
 
@@ -49,6 +40,45 @@ Rufus é uma ferramenta que ajuda a formatar e criar drives USB inicializáveis,
 
 [Tutorial](https://youtu.be/tHmfMhdqlNk?t=199) - Video no youtube mostrando como editar sua dns
 
+
+## Comandos e caminhos do sistema
+
+CMD > Abrir como administrador
+
+DISM /Online /Cleanup-Image /RestoreHealth - Repara a imagem do Windows usada para restaurar arquivos.
+sfc /scannow - Verifica e repara arquivos de sistema corrompidos.
+chkdsk /f - Verifica e corrige erros no sistema de arquivos do disco.
+devmgmt.msc - Abre o Gerenciador de Dispositivos, onde você vê hardware, drivers e atualizações de componentes.
+tasklist - Lista processos em execução.
+taskkill /IM nome.exe /F - Encerra um processo específico.
+ipconfig /displaydns - Mostra o cache DNS armazenado localmente (endereços visitados recentemente).
+ipconfig /release - Libera o endereço IP atual atribuído à sua conexão.
+ipconfig /renew - Solicita um novo endereço IP ao servidor DHCP.
+ipconfig /flushdns - Limpa o cache DNS, útil para resolver problemas de acesso a sites.
+net user nome /add → Cria um novo usuário.
+ping site.com - Testa a conectividade com um servidor.
+tracert site.com - Mostra o caminho que os pacotes percorrem até um destino.
+nslookup site.com - Mostra o IP associado a um domínio.
+
+
+Comandos do Executar (Win + R)
+
+%temp% - Abre a pasta de arquivos temporários do usuário.
+temp - Abre a pasta de arquivos temporários do sistema.
+prefetch - Abre a pasta onde o Windows armazena arquivos de pré-carregamento de programas.
+msconfig - Abre a Configuração do Sistema, onde é possível gerenciar inicialização, serviços e modo de boot.
+msinfo32 - Abre a Ferramenta de Informações do Sistema com detalhes de hardware, drivers e software.
+dxdiag - Abre o Diagnóstico do DirectX, mostrando informações detalhadas de vídeo, som e drivers.
+
+---
+
+## Lista de sites confiáveis para torrent(Recomendado usar Adblock):
+
+1. https://1337x.to - Torrents no geral, faça o download somente de uploaders confiáveis
+2. https://fitgirl-repacks.site - A melhor repacker de jogos da web e a melhor fonte de jogos confiáveis
+3. https://byxatab.com - Fonte de jogos confiáveis
+4. https://elamigos.site - Fonte de jogos e updates para jogos crackeados
+5. https://online-fix.me - Concede soluções para jogar COOP em jogos crackeados
 
 ## Assistir séries e filmes PC/Smarthphone
 
