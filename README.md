@@ -44,12 +44,12 @@ Rufus é uma ferramenta que ajuda a formatar e criar drives USB inicializáveis,
 
 
 ## Alterar o seu DNS para o da Cloudflare:
-[DNS](https://one.one.one.one/help/)
+[DNS](https://one.one.one.one/help/) - Site da Cloudflare com guia para o setup da dns
 
 1.1.1.1<br>
 1.0.0.1
 
-[Tutorial](https://youtu.be/tHmfMhdqlNk?t=199)
+[Tutorial](https://youtu.be/tHmfMhdqlNk?t=199) - Video no youtube mostrando como editar sua dns
 
 
 ## Assistir séries e filmes PC/Smarthphone
