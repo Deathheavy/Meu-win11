@@ -101,14 +101,11 @@ Obs. Para assistir em seu smarthphone basta fazer o download do Stremio e acessa
 
 ---
 
-## Ferramentas Utilizadas
+## Fontes
 
 Programa utilizado para editar a ISO, removendo componentes indesejados e ajustando configurações.<br>
 [NTLite](https://www.ntlite.com/download)<br>
 [ISO](https://www.microsoft.com/pt-br/software-download/windows11)
-
-
-## Fonte
 
 Tutorial em inglês de como editar uma ISO<br>
 ▶️[Create A Custom Windows 10 or 11 ISO](https://www.youtube.com/watch?v=_gMJNQ3yWNE)
