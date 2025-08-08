@@ -45,20 +45,20 @@ Rufus é uma ferramenta que ajuda a formatar e criar drives USB inicializáveis,
 
 CMD > Abrir como administrador
 
-DISM /Online /Cleanup-Image /RestoreHealth - Repara a imagem do Windows usada para restaurar arquivos.
-sfc /scannow - Verifica e repara arquivos de sistema corrompidos.
-chkdsk /f - Verifica e corrige erros no sistema de arquivos do disco.
-devmgmt.msc - Abre o Gerenciador de Dispositivos, onde você vê hardware, drivers e atualizações de componentes.
-tasklist - Lista processos em execução.
-taskkill /IM nome.exe /F - Encerra um processo específico.
-ipconfig /displaydns - Mostra o cache DNS armazenado localmente (endereços visitados recentemente).
-ipconfig /release - Libera o endereço IP atual atribuído à sua conexão.
-ipconfig /renew - Solicita um novo endereço IP ao servidor DHCP.
-ipconfig /flushdns - Limpa o cache DNS, útil para resolver problemas de acesso a sites.
-net user nome /add → Cria um novo usuário.
-ping site.com - Testa a conectividade com um servidor.
-tracert site.com - Mostra o caminho que os pacotes percorrem até um destino.
-nslookup site.com - Mostra o IP associado a um domínio.
+DISM /Online /Cleanup-Image /RestoreHealth - Repara a imagem do Windows usada para restaurar arquivos.<br>
+sfc /scannow - Verifica e repara arquivos de sistema corrompidos.<br>
+chkdsk /f - Verifica e corrige erros no sistema de arquivos do disco.<br>
+devmgmt.msc - Abre o Gerenciador de Dispositivos, onde você vê hardware, drivers e atualizações de componentes.<br>
+tasklist - Lista processos em execução.<br>
+taskkill /IM nome.exe /F - Encerra um processo específico.<br>
+ipconfig /displaydns - Mostra o cache DNS armazenado localmente (endereços visitados recentemente).<br>
+ipconfig /release - Libera o endereço IP atual atribuído à sua conexão.<br>
+ipconfig /renew - Solicita um novo endereço IP ao servidor DHCP.<br>
+ipconfig /flushdns - Limpa o cache DNS, útil para resolver problemas de acesso a sites.<br>
+net user nome /add → Cria um novo usuário.<br>
+ping site.com - Testa a conectividade com um servidor.<br>
+tracert site.com - Mostra o caminho que os pacotes percorrem até um destino.<br>
+nslookup site.com - Mostra o IP associado a um domínio.<br>
 
 
 Comandos do Executar (Win + R)
