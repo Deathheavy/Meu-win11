@@ -63,12 +63,12 @@ nslookup site.com - Mostra o IP associado a um domínio.<br>
 
 Comandos do Executar (Win + R)
 
-%temp% - Abre a pasta de arquivos temporários do usuário.
-temp - Abre a pasta de arquivos temporários do sistema.
-prefetch - Abre a pasta onde o Windows armazena arquivos de pré-carregamento de programas.
-msconfig - Abre a Configuração do Sistema, onde é possível gerenciar inicialização, serviços e modo de boot.
-msinfo32 - Abre a Ferramenta de Informações do Sistema com detalhes de hardware, drivers e software.
-dxdiag - Abre o Diagnóstico do DirectX, mostrando informações detalhadas de vídeo, som e drivers.
+%temp% - Abre a pasta de arquivos temporários do usuário.<br>
+temp - Abre a pasta de arquivos temporários do sistema.<br>
+prefetch - Abre a pasta onde o Windows armazena arquivos de pré-carregamento de programas.<br>
+msconfig - Abre a Configuração do Sistema, onde é possível gerenciar inicialização, serviços e modo de boot.<br>
+msinfo32 - Abre a Ferramenta de Informações do Sistema com detalhes de hardware, drivers e software.<br>
+dxdiag - Abre o Diagnóstico do DirectX, mostrando informações detalhadas de vídeo, som e drivers.<br>
 
 ---
 
