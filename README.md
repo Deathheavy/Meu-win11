@@ -51,6 +51,22 @@ Rufus é uma ferramenta que ajuda a formatar e criar drives USB inicializáveis,
 
 [Tutorial](https://youtu.be/tHmfMhdqlNk?t=199)
 
+
+## Assistir séries e filmes PC/Smarthphone
+
+1. Acesse [Stremio](https://www.stremio.com/translation/br)
+2. Clique em "Login" no canto superior direito
+3. clique em Sign up with email
+4. Preencha os campos solicitados
+5. Após criar a conta, faça o download do aplicativo e acesse a sua conta
+6. Acesse [Torrentio](https://torrentio.strem.fun/configure)
+7. Em Providers: Desmarque os providers com RU, FR, IT, ES, MX, PL e Magnet DL
+8. Em Sorting: By Seeders
+9. Em Exclude qualities/resolutions: Marque para excluir Screner e Cam
+10. Clique em Install com o seu aplicativo Stremio aberto e confirme a instalação no aplicativo.
+
+Obs. Para assistir em seu smarthphone basta fazer o download do Stremio e acessar com uma conta que já foi configurada no PC.
+
 ---
 
 ## Sobre este Projeto
