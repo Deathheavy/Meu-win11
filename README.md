@@ -55,7 +55,7 @@ ipconfig /displaydns - Mostra o cache DNS armazenado localmente (endereços visi
 ipconfig /release - Libera o endereço IP atual atribuído à sua conexão.<br>
 ipconfig /renew - Solicita um novo endereço IP ao servidor DHCP.<br>
 ipconfig /flushdns - Limpa o cache DNS, útil para resolver problemas de acesso a sites.<br>
-net user nome /add → Cria um novo usuário.<br>
+net user nome /add - Cria um novo usuário.<br>
 ping site.com - Testa a conectividade com um servidor.<br>
 tracert site.com - Mostra o caminho que os pacotes percorrem até um destino.<br>
 nslookup site.com - Mostra o IP associado a um domínio.<br>
