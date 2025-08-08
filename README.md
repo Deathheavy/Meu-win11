@@ -35,8 +35,8 @@ Rufus é uma ferramenta que ajuda a formatar e criar drives USB inicializáveis,
 ## Alterar o seu DNS para o da Cloudflare:
 [DNS](https://one.one.one.one/help/) - Site da Cloudflare com guia para o setup da dns
 
-1.1.1.1<br>
-1.0.0.1
+**1.1.1.1**<br>
+**1.0.0.1**
 
 [Tutorial](https://youtu.be/tHmfMhdqlNk?t=199) - Video no youtube mostrando como editar sua dns
 
@@ -45,34 +45,34 @@ Rufus é uma ferramenta que ajuda a formatar e criar drives USB inicializáveis,
 
 CMD > Abrir como administrador
 
-DISM /Online /Cleanup-Image /RestoreHealth - Repara a imagem do Windows usada para restaurar arquivos.<br>
-sfc /scannow - Verifica e repara arquivos de sistema corrompidos.<br>
-chkdsk /f - Verifica e corrige erros no sistema de arquivos do disco.<br>
-tasklist - Lista processos em execução.<br>
-taskkill /IM nome.exe /F - Encerra um processo específico.<br>
-ipconfig /displaydns - Mostra o cache DNS armazenado localmente (endereços visitados recentemente).<br>
-ipconfig /release - Libera o endereço IP atual atribuído à sua conexão.<br>
-ipconfig /renew - Solicita um novo endereço IP ao servidor DHCP.<br>
-ipconfig /flushdns - Limpa o cache DNS, útil para resolver problemas de acesso a sites.<br>
-net user nome /add - Cria um novo usuário.<br>
-ping site.com - Testa a conectividade com um servidor.<br>
-tracert site.com - Mostra o caminho que os pacotes percorrem até um destino.<br>
-nslookup site.com - Mostra o IP associado a um domínio.<br>
+**DISM /Online /Cleanup-Image /RestoreHealth** - Repara a imagem do Windows usada para restaurar arquivos.<br>
+**sfc /scannow** - Verifica e repara arquivos de sistema corrompidos.<br>
+**chkdsk /f** - Verifica e corrige erros no sistema de arquivos do disco.<br>
+**tasklist** - Lista processos em execução.<br>
+**taskkill /IM nome.exe /F** - Encerra um processo específico.<br>
+**ipconfig /displaydns** - Mostra o cache DNS armazenado localmente (endereços visitados recentemente).<br>
+**ipconfig /release** - Libera o endereço IP atual atribuído à sua conexão.<br>
+**ipconfig /renew** - Solicita um novo endereço IP ao servidor DHCP.<br>
+**ipconfig /flushdns** - Limpa o cache DNS, útil para resolver problemas de acesso a sites.<br>
+**net user nome /add** - Cria um novo usuário.<br>
+**ping site.com** - Testa a conectividade com um servidor.<br>
+**tracert site.com** - Mostra o caminho que os pacotes percorrem até um destino.<br>
+**nslookup site.com** - Mostra o IP associado a um domínio.<br>
 
 
 Comandos do Executar (Win + R)
 
-%temp% - Abre a pasta de arquivos temporários do usuário.<br>
-temp - Abre a pasta de arquivos temporários do sistema.<br>
-prefetch - Abre a pasta onde o Windows armazena arquivos de pré-carregamento de programas.<br>
-msconfig - Abre a Configuração do Sistema, onde é possível gerenciar inicialização, serviços e modo de boot.<br>
-msinfo32 - Abre a Ferramenta de Informações do Sistema com detalhes de hardware, drivers e software.<br>
-dxdiag - Abre o Diagnóstico do DirectX, mostrando informações detalhadas de vídeo, som e drivers.<br>
-regedit - Abre o Editor do Registro do Windows.<br>
-mrt - Abre o utilitário oficial da Microsoft para detectar e remover malwares.<br>
-shell:startup - Abre a pasta de inicialização automática de programas.<br>
-services.msc - Abre a lista de serviços do Windows.<br>
-devmgmt.msc - Abre o Gerenciador de Dispositivos, onde você vê hardware, drivers e atualizações de componentes.<br>
+**%temp%** - Abre a pasta de arquivos temporários do usuário.<br>
+**temp** - Abre a pasta de arquivos temporários do sistema.<br>
+**prefetch** - Abre a pasta onde o Windows armazena arquivos de pré-carregamento de programas.<br>
+**msconfig** - Abre a Configuração do Sistema, onde é possível gerenciar inicialização, serviços e modo de boot.<br>
+**msinfo32** - Abre a Ferramenta de Informações do Sistema com detalhes de hardware, drivers e software.<br>
+**dxdiag** - Abre o Diagnóstico do DirectX, mostrando informações detalhadas de vídeo, som e drivers.<br>
+**regedit** - Abre o Editor do Registro do Windows.<br>
+**mrt** - Abre o utilitário oficial da Microsoft para detectar e remover malwares.<br>
+**shell:startup** - Abre a pasta de inicialização automática de programas.<br>
+**services.msc** - Abre a lista de serviços do Windows.<br>
+**devmgmt.msc** - Abre o Gerenciador de Dispositivos, onde você vê hardware, drivers e atualizações de componentes.<br>
 
 ---
 
